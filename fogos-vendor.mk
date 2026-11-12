@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/fogos/proprietary/vendor/etc/libnfc-qrd-SN100_38_4MHZ.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-qrd-SN100_38_4MHZ.conf \
     vendor/motorola/fogos/proprietary/vendor/etc/libnfc-sec-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-nci.conf \
     vendor/motorola/fogos/proprietary/vendor/etc/libnfc-sec-vendor.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-vendor.conf \
-    vendor/motorola/fogos/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     vendor/motorola/fogos/proprietary/vendor/etc/motorola/12m/chipone-icnl9916c_120hz_hd_plus_vid-primary-fogos.ini:$(TARGET_COPY_OUT_VENDOR)/etc/motorola/12m/chipone-icnl9916c_120hz_hd_plus_vid-primary-fogos.ini \
     vendor/motorola/fogos/proprietary/vendor/etc/nfc_calibration.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nfc_calibration.txt \
     vendor/motorola/fogos/proprietary/vendor/etc/pwr/PowerFeatureConfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/pwr/PowerFeatureConfig.xml \
